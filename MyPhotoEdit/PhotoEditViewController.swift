@@ -122,7 +122,6 @@ class PhotoEditViewController: UIViewController {
             scale = 1
             
         }
-        
     }
 
     @IBAction func selectPhoto(_ sender: Any) {
